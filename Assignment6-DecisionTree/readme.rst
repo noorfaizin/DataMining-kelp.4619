@@ -1,8 +1,7 @@
 ###################
-Data Mining - Kelp A11.4619
+Assignment-6
 ###################
 *******************
-Repositories of Data Mining
+c4.5 & DecisionTree - Data Mining
 *******************
-Nama : Noor Faizin
-NIM : A11.2021.13884
+Noor Faizin - A11.2021.13884
